@@ -1,1 +1,0 @@
-What is this blog===========Thanks to GitHub and their amazing pages feature I decided that I am going to make my blog from GitHub pages and use it to discuss my coding projects and other developer things.I am always open to suggestions and improvements regarding any of my code. So please tell me if I am not doing something as well as I could be doing it.
